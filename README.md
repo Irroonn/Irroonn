@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello ✨
+
+I'm Archie. I don't use GitHub often, but I'm from the United Kingdom and I'm 17 years old.
+
+[Twitter 🐦](https://www.twitter.com/SplayCat "My Twitter")
 
 <!--
 **Irroonn/Irroonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
